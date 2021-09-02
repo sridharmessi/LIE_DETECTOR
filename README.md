@@ -8,3 +8,15 @@ ANALOG_PROJECT
   ++after we get the csv file 
   we import this file to Knime software ,to visalize the tools using decison tree algorithm to predict the output 
   i have attached the implementation workflow of this machine leaning related stuff into it
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
