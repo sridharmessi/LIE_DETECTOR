@@ -7,7 +7,7 @@ ANALOG_PROJECT
   we get data using csv file using LTspice software or we manual we note the value using kirchhoff's current law and voltage law.
   ++after we get the csv file 
   we import this file to Knime software ,to visalize the tools using decison tree algorithm to predict the output 
-  i have attached the implementation workflow of this machine leaning related stuff into it
+  i have attached the implementation workflow of this machine leaning related stuff into .
   
   
   
